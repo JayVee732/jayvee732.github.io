@@ -2,8 +2,46 @@
 layout: default
 title: Jamie Higgins, Software Developer
 ---
-<div class="blurb">
-    <h1>Hi there, I'm Jamie Higgins!</h1>
-    <p>Lorem Ipsum. <a href="/about">Read more about my life...</a></p>
+<!-- Page Header -->
+<!-- Set your background image for this header on the line below. -->
+<header class="intro-header" style="background-image: url('../img/home-bg.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+                    <h1>Jamie Higgins</h1>
+                    <hr class="small">
+                    <span class="subheading">A Clean Blog Theme by Start Bootstrap</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Main Content -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            {% for post in site.posts %}
+            <div class="post-preview">
+                <a href="{{ post.url }}" title="{{ post.title }}">
+                    <h2 class="post-title">
+                        {{ post.title }}
+                    </h2>
+                    <h3 class="post-subtitle">
+                        {{ post.subtitle }}
+                    </h3>
+                </a>
+                <p class="post-meta">Posted by <a href="#">{{ post.author }}</a> on <span>{{ post.date | date_to_string }}</span></p>
+            </div>
+            {% endfor %}
+            <hr>
+            <!-- Pager -->
+            <ul class="pager">
+                <li class="next">
+                    <a href="/blog">Older Posts &rarr;</a>
+                </li>
+            </ul>
+        </div>
+    </div>
 </div>
-<!-- /.blurb -->
