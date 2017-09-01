@@ -11,7 +11,7 @@ title: Jamie Higgins, Software Developer
                 <div class="site-heading">
                     <h1>Jamie Higgins</h1>
                     <hr class="small">
-                    <span class="subheading">A Clean Blog Theme by Start Bootstrap</span>
+                    <span class="subheading">Software Developer, Musician, Life Person</span>
                 </div>
             </div>
         </div>
@@ -22,7 +22,7 @@ title: Jamie Higgins, Software Developer
 <div class="container">
     <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            {% for post in site.posts %}
+            {% for post in site.posts limit:3 %}
             <div class="post-preview">
                 <a href="{{ post.url }}" title="{{ post.title }}">
                     <h2 class="post-title">
