@@ -1,0 +1,45 @@
+---
+layout: default
+title: Projects
+---
+<!-- Page Header -->
+<!-- Set your background image for this header on the line below. -->
+<header class="intro-header" style="background-image: url('/img/projects/banner.jpeg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="page-heading">
+                    <h1>Projects</h1>
+                    <hr class="small">
+                    <span class="subheading">Here are some of my projects.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Main Content -->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            {% for post in site.projectInfo %}
+            <div class="col-sm-8" style="margin-bottom:150px">
+                <div class="post-preview">
+                    <a href="{{ post.weblink }}" title="{{ post.title }}">
+                        <h2 class="post-title">
+                            {{ post.title }}
+                        </h2>
+                    </a>
+                    <h3 class="post-subtitle">
+                        {{ post.subtitle }}
+                    </h3>
+                    <p class="post-meta">{{ post.info }}</p>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <img src="{{ post.image }}" />
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
