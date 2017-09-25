@@ -23,8 +23,6 @@ During the last semester, we starting using [Angular 2](https://angular.io/) in 
 
 And yes, I know I could have just used my laptop, but here we are eh?
 
-While not college related, but still technology, I also received my external monitor for my laptop, [ASUS MB168B](https://www.asus.com/ie/Commercial-Monitors/MB168B/)  on Monday too. Love it, but I can't control the brightness on it due to Asus drivers being weird :/.
-
 ### Wednesday
 
 With one full week of classes technically finished at this stage, we wrapped back around to Database Development. With this, we went over the ERDs we had designed for our project for the class. Mine was wrong....
@@ -32,6 +30,8 @@ With one full week of classes technically finished at this stage, we wrapped bac
 But terribaly wrong, just had to change of the links between tables.
 
 Honestly, haven't really done a huge amount of programming this week so far, need to find a small project to work on at this stage, but I also know that's only because we haven't started the main project for the course yet (which is ultimatly where this blog is going).
+
+While not college related, but still technology, I also received my external monitor for my laptop, [ASUS MB168B](https://www.asus.com/ie/Commercial-Monitors/MB168B/)  on Monday too. Love it, but I can't control the brightness on it due to Asus drivers being weird. :/
 
 ### Thursday
 
