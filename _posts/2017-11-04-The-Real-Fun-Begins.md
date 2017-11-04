@@ -21,7 +21,7 @@ For the most part, we've just been watching [this playlist on YouTube](https://w
 
 ### Web Programming 3
 
-So [Liam](s00148095.github.io) and I decided to pull a Zuckerberg and copy the idea that we originally had for the main project for the year and use it as our Web project. It was all this idea.
+So [Liam](https://s00148095.github.io/) and I decided to pull a Zuckerberg and copy the idea that we originally had for the main project for the year and use it as our Web project. It was all this idea.
 
 ### Rich Application Development
 
