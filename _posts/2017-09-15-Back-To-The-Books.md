@@ -19,7 +19,7 @@ We got back on Wednesday and went straight into Database Development, and straig
 
 Thursday was a weird day. We first had Professional Development, which is a class about getting the skill for job interviews and for touching up the CV. Was just an introduction lecture, so nothing of major interest so far.
 
-And that's been the whole week, all the other classes we we're supposed to have were canceled due to lectures having meetings or the room being unavailable, so here we are. Easy week to settle back into I guess ¯\\\_(ツ)_/¯.
+And that's been the whole week, all the other classes we we're supposed to have were cancelled due to lectures having meetings or the room being unavailable, so here we are. Easy week to settle back into I guess ¯\\\_(ツ)_/¯.
 
 Until next week,
 
