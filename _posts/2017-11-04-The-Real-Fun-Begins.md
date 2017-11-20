@@ -31,10 +31,6 @@ I've finally started to have classes in this subject after our lecture came back
 
 I think is starting to become my Achilles' Heel, the main project for this subject that is. I've been trying to wrap my head around some new concepts in the subject and most of them, unfortunately, aren't sticking. However, I think now, after some studying, it's starting to make a lot more sense and I have a real feeling of accomplishment now! Still working on it though.
 
-### "Personal Reasons"
-
-Super Mario Odyssey came out on the 27th of October and I'll be honest when I say I've been engrossed by it for the past week, it's just so good. If you have a Switch, get it.
-
 As such, there actually has been going on over the past month, I've just been lazy/busy, that's all.
 
 Until next time,
