@@ -4,7 +4,7 @@ title: Back to the books
 subtitle: 3rd year's the charm
 author: Jamie Higgins
 date: 2017-09-15
-image: /img/post/2017-09-15/banner.jpg
+image: http://www.jamiehiggins.me/img/post/2017-09-15/banner.jpg
 ---
 
 So here we are, back to college. As stated in the about page, I attend [IT Sligo](https://www.itsligo.ie), which is great considering how close it is to my house (10 minute drive) and that the course itself is actually good, which friendly lectures and full of people how want to learn.
