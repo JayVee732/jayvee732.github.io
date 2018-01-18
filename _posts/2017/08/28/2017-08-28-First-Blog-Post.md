@@ -4,6 +4,7 @@ title: Jamie Higgins launches blog
 subtitle: The start of something new
 author: Jamie Higgins
 date: 2017-08-28
+categories: Personal
 image: http://www.jamiehiggins.me/img/post/2017/08/28/banner.jpg
 ---
 

@@ -4,6 +4,7 @@ title: The Real Fun Begins
 subtitle: We got the job!
 author: Jamie Higgins
 date: 2017-11-04
+categories: Personal
 image: http://www.jamiehiggins.me/img/post/2017/11/04/banner.jpg
 ---
 

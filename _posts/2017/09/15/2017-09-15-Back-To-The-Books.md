@@ -4,6 +4,7 @@ title: Back to the books
 subtitle: 3rd year's the charm
 author: Jamie Higgins
 date: 2017-09-15
+categories: Personal
 image: http://www.jamiehiggins.me/img/post/2017/09/15/banner.jpg
 ---
 
