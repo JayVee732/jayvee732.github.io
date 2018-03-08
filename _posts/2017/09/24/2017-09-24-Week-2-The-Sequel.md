@@ -5,7 +5,7 @@ subtitle: Still getting into the swing of things
 author: Jamie Higgins
 date: 2017-09-24
 categories: Personal
-image: http://www.jamiehiggins.me/img/post/2017/09/24/banner.jpg
+image: https://www.jamiehiggins.me/img/post/2017/09/24/banner.jpg
 ---
 
 That... was a weird week.
