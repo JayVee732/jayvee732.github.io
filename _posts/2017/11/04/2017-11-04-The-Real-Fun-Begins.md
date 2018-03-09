@@ -5,7 +5,7 @@ subtitle: We got the job!
 author: Jamie Higgins
 date: 2017-11-04
 categories: Personal
-image: https://www.jamiehiggins.me/img/post/2017/11/04/banner.jpg
+image: /img/post/2017/11/04/banner.jpg
 ---
 
 So... Long time, no chat!
