@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jamie Higgins launches blog
+title: Jamie Higgins Launches Blog
 subtitle: The start of something new
 author: Jamie Higgins
 date: 2017-08-28

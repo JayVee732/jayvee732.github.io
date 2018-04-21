@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back to the books
+title: Back To The Books
 subtitle: 3rd year's the charm
 author: Jamie Higgins
 date: 2017-09-15

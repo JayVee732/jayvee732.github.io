@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It's a long time coming
+title: It's A Long Time Coming
 subtitle: Oops, guess what I forgot about
 author: Jamie Higgins
 date: 2018-04-15
