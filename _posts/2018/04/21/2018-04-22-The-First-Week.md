@@ -4,8 +4,7 @@ title: The First Week
 subtitle: ...is always the hardest
 author: Jamie Higgins
 date: 2018-04-21
-categories: Personal
-image: /img/post/2018/04/21/banner.jpg
+image: /assets/img/post/2018/04/21/banner.jpg
 ---
 
 ### Photo courtesy by: [u/isaiahrready8](https://www.reddit.com/r/battlestations/comments/55l545/my_finished_ultrawide_battlestation/)

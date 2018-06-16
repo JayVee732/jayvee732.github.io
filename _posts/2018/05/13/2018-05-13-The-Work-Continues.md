@@ -4,8 +4,7 @@ title: The Work Continues
 subtitle: As it should
 author: Jamie Higgins
 date: 2018-05-13
-categories: Personal
-image: /img/post/2018/05/13/banner.jpg
+image: /assets/img/post/2018/05/13/banner.jpg
 ---
 
 > Since Monday is a Bank Holiday in Ireland, we didn’t have work, so this week starts from Tuesday instead.

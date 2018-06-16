@@ -4,8 +4,7 @@ title: It's A Long Time Coming
 subtitle: Oops, guess what I forgot about
 author: Jamie Higgins
 date: 2018-04-15
-categories: Personal
-image: /img/post/2018/04/15/banner.jpg
+image: /assets/img/post/2018/04/15/banner.jpg
 ---
 
 Well hey there, it's been a while alright. Guess I should explain where I've been for the past while then. Are you ready for it?... Laziness and tiredness. That's all. I got too caught up in all of the projects that I had due that I really didn't have a huge about of free time left to really want to update this site. But I'm back now, all projects for the year submitted and about to start work placement tomorrow, so it's all starting to pick up again.

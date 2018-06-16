@@ -4,8 +4,7 @@ title: Week 2, The Sequel
 subtitle: Still getting into the swing of things
 author: Jamie Higgins
 date: 2017-09-24
-categories: Personal
-image: /img/post/2017/09/24/banner.jpg
+image: /assets/img/post/2017/09/24/banner.jpg
 ---
 
 That... was a weird week.

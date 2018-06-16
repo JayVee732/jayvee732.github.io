@@ -1,5 +1,19 @@
-name: Jamie Higgins, Software Developer
+title: Jamie Higgins, Software Developer
+email: Jamie.Higgins@mail.itsligo.ie
+description: I love writing code with a little bit of music on the side.
+author: Jamie Higgins
+
+## Social Profiles
+twitter_username: JamieHiggins732
+github_username: PsychoHacks
+linkedin_username: jamie-higgins
+
+## Build settings
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+paginate: 5
+paginate_path: "/blog/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
 collections:
   projectInfo:

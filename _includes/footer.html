@@ -1,0 +1,59 @@
+<!-- Footer -->
+<hr>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center">
+          {% if site.twitter_username %}
+          <li class="list-inline-item">
+            <a href="https://twitter.com/JamieHiggins732" title="Twitter">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %} {% if site.linkedin_username %}
+          <li class="list-inline-item">
+            <a href="https://www.linkedin.com/in/jamie-higgins/" title="LinkedIn">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %} {% if site.github_username %}
+          <li class="list-inline-item">
+            <a href="https://github.com/PsychoHacks" title="GitHub">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %} {% if site.email %}
+          <li class="list-inline-item">
+            <a href="mailto:Jamie.Higgins@mail.itsligo.ie" title="Email">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+          <li class="list-inline-item">
+            <a href="https://jamiehiggins.me/blog/atom.xml" title="RSS Feed">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+        </ul>
+        <p class="copyright text-muted">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
+      </div>
+    </div>
+  </div>
+</footer>
