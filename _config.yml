@@ -21,8 +21,8 @@
 title: Jamie Higgins
 email: jamiehigginswork@outlook.com
 tagline: Personal Blog
-description: >- # this means to ignore newlines until "baseurl:"
-  I love writing code with a little bit of music on the side.
+description: # this means to ignore newlines until "baseurl:"
+  Ireland based Software Developer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jamiehiggins.dev" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en_IE

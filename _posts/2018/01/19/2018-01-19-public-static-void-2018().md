@@ -4,10 +4,9 @@ title: public static void 2018()
 subtitle: Console.WriteLine("Write Code");
 author: Jamie Higgins
 date: 2018-01-19
-image: /assets/img/post/2018/01/19/banner.jpg
 ---
 
-The start of a new year always comes with some amount of anxiety, at least that's the case for me. There's always the questions of what's going to happen this year, what did I accomplish this year and how can I improve upon the goals that I set out to do. Being able to look at the future and say "Yeah, I can do it" is an important part that I some days feels like no problem and others, a huge mountain. But's it's all about waiting for change to happen, no matter how slow it is, is the important part.
+The start of a new year always comes with some amount of anxiety, at least that's the case for me. There's always the questions of what's going to happen this year, what did I accomplish this year and how can I improve upon the goals that I set out to do. Being able to look at the future and say "Yeah, I can do it" is an important part that I some days feels like no problem and others, a huge mountain. But it's all about waiting for change to happen, no matter how slow it is, is the important part.
 
 ### Project 300
 

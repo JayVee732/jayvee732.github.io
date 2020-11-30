@@ -4,12 +4,11 @@ title: Back To The Books
 subtitle: "Let's do this one more time with feeling"
 author: Jamie Higgins
 date: 2018-09-10
-image: /assets/img/post/2018/09/10/banner.jpg
 ---
 
 Oh hi there, I didn't see you there, come in, let me get you a chair.
 
-So, I suppose I should explain where I disappear off after the last post. Really, I just wanted to focus more on work since at that point, I already had all the reports that I needed for college written so there wasn't a huge insentive for me to continue writing more posts. I should have, just to have done it, but here we are.
+So, I suppose I should explain where I disappear off after the last post. Really, I just wanted to focus more on work since at that point, I already had all the reports that I needed for college written so there wasn't a huge incentive for me to continue writing more posts. I should have, just to have done it, but here we are.
 
 So what else happened since I last wrote. More testing, that it.
 

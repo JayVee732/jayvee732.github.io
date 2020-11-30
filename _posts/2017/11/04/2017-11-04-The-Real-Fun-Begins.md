@@ -4,7 +4,6 @@ title: The Real Fun Begins
 subtitle: We got the job!
 author: Jamie Higgins
 date: 2017-11-04
-image: /assets/img/post/2017/11/04/banner.jpg
 ---
 
 So... Long time, no chat!

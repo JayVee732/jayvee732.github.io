@@ -4,7 +4,6 @@ title: Induction
 subtitle: I choose you!
 author: Jamie Higgins
 date: 2018-05-05
-image: /assets/img/post/2018/05/05/banner.jpg
 ---
 
 ### Monday
@@ -41,7 +40,7 @@ Considering tomorrow is the induction with the company, we travelled up to Dubli
 
 Fun day was had by all. The day started off with trying to sort out breakfast for myself and Joe. Went walking around of a while and found one place on Google Maps, but upon realising it was on the 5th floor of a building, I thought it would probably be too expensive, so back down the stairs I marched, but not before snapping a picture of this poster
 
-![Poster of bugs](/assets/img/post/2018/05/05/Image_1.jpg){:class="img-responsive"}
+![Poster of bugs](/assets/img/post/2018/05/05/Image_1.jpg)
 
 So I got lost on the way to the next place, but ended up in a breakfast bar anyway and got a breakfast sandwich, so that worked out well.
 

@@ -4,10 +4,7 @@ title: The First Week
 subtitle: ...is always the hardest
 author: Jamie Higgins
 date: 2018-04-21
-image: /assets/img/post/2018/04/21/banner.jpg
 ---
-
-### Photo courtesy by: [u/isaiahrready8](https://www.reddit.com/r/battlestations/comments/55l545/my_finished_ultrawide_battlestation/)
 
 And so it starts! This is the first week on work placement, the final part of my course. It's all very exciting, but also very nerve-wracking, due to there being so many new skills that I'm going to have to learn. Point in case, this is my first time living away from home, so I have to look after myself and such.
 

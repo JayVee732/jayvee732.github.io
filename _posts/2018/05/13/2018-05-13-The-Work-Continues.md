@@ -4,7 +4,6 @@ title: The Work Continues
 subtitle: As it should
 author: Jamie Higgins
 date: 2018-05-13
-image: /assets/img/post/2018/05/13/banner.jpg
 ---
 
 > Since Monday is a Bank Holiday in Ireland, we didn’t have work, so this week starts from Tuesday instead.
@@ -43,7 +42,7 @@ Told you it wasn't that long of a day.
 
 Today's post could just be that the data is now syncing between Dynamics and GP again and I'd be happy with just that.
 
-Ok, I should explain. I didn't do a huge amount to resolve the issue, but I had a guess that we could reset the password for the account and change the settings for Scribe to reflect this, and that seemed to do it. However, I didn't change the password or the connection to Scribe since I didn't have all the privilages to do so, but we got someone else who did to do it and everything is good now, happy Christmas to me!
+Ok, I should explain. I didn't do a huge amount to resolve the issue, but I had a guess that we could reset the password for the account and change the settings for Scribe to reflect this, and that seemed to do it. However, I didn't change the password or the connection to Scribe since I didn't have all the privileges to do so, but we got someone else who did to do it and everything is good now, happy Christmas to me!
 
 Only other thing that happened was that we did some work on the plugin where some records were updating at the wrong stages of the system. There's still a bit of work that needs to be done with it though as it throws an error for the time being.
 

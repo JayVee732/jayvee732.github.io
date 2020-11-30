@@ -4,12 +4,11 @@ title: Week 2, The Sequel
 subtitle: Still getting into the swing of things
 author: Jamie Higgins
 date: 2017-09-24
-image: /assets/img/post/2017/09/24/banner.jpg
 ---
 
 That... was a weird week.
 
-Ok, so it wasn't actually that bad, more unorganised. With this being the first full week back to college, nothing is really set in stone at this point, but life moves on, so we run around the college aimlessly trying to find the right classroom that we're supposed to be in at a given time. Either way, on to my log...
+Ok, so it wasn't actually that bad, more disorganised. With this being the first full week back to college, nothing is really set in stone at this point, but life moves on, so we run around the college aimlessly trying to find the right classroom that we're supposed to be in at a given time. Either way, on to my log...
 
 > Note: I'm going only going to be talking about important classes throughout the given day, not every class. So I'll be omitting certain classes where not a lot happened (Lectures etc.).
 
