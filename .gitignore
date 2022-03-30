@@ -1,5 +1,6 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
+Gemfile
+_site/
+Gemfile.lock
+/_posts/template.md
 vendor
+.bundle
