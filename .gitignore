@@ -2,3 +2,5 @@ Gemfile
 _site/
 Gemfile.lock
 /_posts/template.md
+vendor
+.bundle
