@@ -1,7 +1,5 @@
 ---
-layout: page
 title: About
-permalink: /about/
 ---
 Hi there! My name is Jamie Higgins and I’m a CRM Consultant, previously studied Software Development in the Institute of Technology Sligo and creator of this website! Thanks for taking the time out of your day to view my website!
 
