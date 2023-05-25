@@ -1,0 +1,38 @@
+baseURL: 'https://jamiehiggins.dev/'
+languageCode: en-ie
+title: Jamie Higgins
+theme: PaperMod
+
+params:
+  defaultTheme: auto
+  enableInlineShortcodes: 'true'
+  enableRobotsTXT: 'true'
+  enableEmoji: 'true'
+  homeInfoParams:
+    title: 'Jamie Higgins, Software Developer'
+    content: I love writing code with a little bit of music on the side.
+
+  socialIcons:
+      - name: github
+        url: "https://github.com/JayVee732"
+      - name: linkedin
+        url: "https://ie.linkedin.com/in/jamie-higgins"
+      - name: email
+        url: "mailto:work@jamiehiggins.dev"
+      - name: Rss
+        url: "index.xml"
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: About
+                  url: about/
+                - name: Archive
+                  url: archives/
