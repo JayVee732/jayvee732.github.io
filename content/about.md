@@ -2,7 +2,7 @@
 title: About
 ---
 
-![Portrait of Jamie Higgins](/img/about/me.jpg)
+![Portrait of Jamie Higgins](/img/about/me.webp)
 
 Hi there! My name is Jamie Higgins and I’m a CRM Consultant, previously studied Software Development in the Institute of Technology Sligo and creator of this website! Thanks for taking the time out of your day to view my website!
 
